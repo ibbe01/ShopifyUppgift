@@ -1,0 +1,314 @@
+{
+  "sections": {
+    "1724775598475e9aa1": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Preppycore",
+            "heading_size": "h0"
+          }
+        },
+        "text_wAGPh9": {
+          "type": "text",
+          "settings": {
+            "text": "<strong>We're serving American classics - remixed.<\/strong>",
+            "text_style": "body"
+          }
+        },
+        "button": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Shop now",
+            "button_link_1": "shopify:\/\/collections\/all",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text_wAGPh9",
+        "button"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/istockphoto-1232764960-612x612.jpg",
+        "image_overlay_opacity": 40,
+        "image_height": "large",
+        "desktop_content_position": "bottom-right",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-3",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "rich_text_C9j9Hc": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_8MfgPN": {
+          "type": "heading",
+          "settings": {
+            "heading": "New For Fall: Our Preppiest Collection Ever",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "heading_8MfgPN"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "slideshow_VXzaDN": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_VyieyF": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/wp11379931.webp",
+            "heading": "Where elegance meets trend.",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "Shop now",
+            "link": "shopify:\/\/collections\/all",
+            "button_style_secondary": false,
+            "box_align": "bottom-left",
+            "show_text_box": false,
+            "text_alignment": "left",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-3",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_GrXkym": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/pexels-photo-1536619.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "Where style meets personality",
+            "button_label": "Shop now",
+            "link": "shopify:\/\/collections\/all",
+            "button_style_secondary": false,
+            "box_align": "bottom-left",
+            "show_text_box": false,
+            "text_alignment": "left",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_kqffmD": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Model-Chic-Fashion.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "Where style meets fashion",
+            "button_label": "Shop now",
+            "link": "shopify:\/\/collections\/all",
+            "button_style_secondary": false,
+            "box_align": "bottom-left",
+            "show_text_box": false,
+            "text_alignment": "left",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-3",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_XamgWC": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/beautiful-brunette-woman-natural-makeup-600nw-1781009285.webp",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "Where design meets style",
+            "button_label": "Shop now",
+            "link": "shopify:\/\/collections\/all",
+            "button_style_secondary": false,
+            "box_align": "bottom-right",
+            "show_text_box": false,
+            "text_alignment": "right",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-3",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_VyieyF",
+        "slide_GrXkym",
+        "slide_kqffmD",
+        "slide_XamgWC"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "rich_text_kdYEVj": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_eWNnPt": {
+          "type": "heading",
+          "settings": {
+            "heading": "Shop by Category",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "heading_eWNnPt"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "collection_list_AeKnMY": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_9T8tqf": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "pants"
+          }
+        },
+        "featured_collection_qxFxaw": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "shirts"
+          }
+        },
+        "featured_collection_WMfwb3": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "shoes"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_9T8tqf",
+        "featured_collection_qxFxaw",
+        "featured_collection_WMfwb3"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_banner_iNb3cM": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_B8qQcC": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>End-Of-Summer Sale 50-70% off<\/strong>",
+            "heading_size": "h0"
+          }
+        }
+      },
+      "block_order": [
+        "heading_B8qQcC"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/morning-sky-horizon-spring-sky-scape-in-blue-by-the-sea-of-nature-cloud-sky-in-sunny-day-summer-horizon-picturesque-banner-background-for-world-environment-day-save-the-earth-or-earth.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-3",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "collection_list_jjCawm": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_q8D7hJ": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "men"
+          }
+        },
+        "featured_collection_rFYUXp": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "women"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_q8D7hJ",
+        "featured_collection_rFYUXp"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 2,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "1724775598475e9aa1",
+    "image_banner",
+    "rich_text_C9j9Hc",
+    "slideshow_VXzaDN",
+    "rich_text_kdYEVj",
+    "collection_list_AeKnMY",
+    "image_banner_iNb3cM",
+    "collection_list_jjCawm"
+  ]
+}
